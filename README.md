@@ -14,12 +14,9 @@ ACGCACCTTGCGCTCCTTGGTATTCCGAGGAGCATGCCTGTTTGAGTGTCATGTTAATCT
 CAATCCCTT  
 ```
 - BLAST results
-https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/ITS2/Japan1247_ITS1.html
-
+https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/Japan1247_ITS1.html
 
 ### Japan 1247 - ITS2
-- BLAST results
-https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/ITS2/Japan1247_ITS2.html
 
 ```
 TAATCTCAATCCCTTTGTCTTTATTGTACGTTGGGATTGGACTTGGAGGTATTTGCTGGC
@@ -27,5 +24,7 @@ CCTTTTTTGGGTCGGCTCCTCTTGAATGCATTAGCTTGGGCTTTCGCTCGATGCAACGGT
 GTGATAGTATTATTCGCCGAGGCAACTTGCGGTATGAGTCTGCTTCTAATCGTCTTCGGA
 CAAGCATGGGTGTATTTTTTAATATGCTCTTTTGA
 ```
+- BLAST results
+https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/Japan1247_ITS2.html
 
 Source: Johan Bengtsson-Palme, Vilmar Veldre, Martin Ryberg, Martin Hartmann, Sara Branco, Zheng Wang, Anna Godhe, Yann Bertrand, Pierre De Wit, Marisol Sanchez, Ingo Ebersberger, Kemal Sanli, Filipe de Souza, Erik Kristiansson, Kessy Abarenkov, K. Martin Eriksson, R. Henrik Nilsson Methods in Ecology and Evolution, 4: 914-919, 2013 (DOI: 10.1111/2041-210X.12073)
