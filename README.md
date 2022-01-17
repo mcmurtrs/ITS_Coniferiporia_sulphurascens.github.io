@@ -3,8 +3,8 @@ Internal Transcribed Spacer (ITS) regions 1 and 2 of the root rotting fungus Con
 
 
 ### Japan 1247 - ITS1
-https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/Japan1247_ITS2.html
-https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/ITS2/Japan1247_ITS2.html
+https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/Japan1247_ITS1.html
+https://mcmurtrs.github.io/ITS_Coniferiporia_sulphurascens.github.io/ITS2/Japan1247_ITS1.html
 
 ```
 AAGGATCATTATCGAGTTCTTTGAAGTGGGTCTTTCTGATGCTGGCGCCTCTGTGGTGCA
